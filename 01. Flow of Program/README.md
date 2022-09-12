@@ -8,7 +8,7 @@ Code 3 :
 Take a number as input and print the multiplication table for it.
 
 Code 4 :  
-Take 2 numbers as inputs and find their HCF and LCM.
+Take 2 numbers as inputs and find their LCM and GCD.
 
 Code 5 :  
 Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
