@@ -2,7 +2,7 @@ package com.karan;
 
 import java.util.Scanner;
 
-public class Main {
+public class UserInputTillx {
 
     public static void main(String[] args) {
 
