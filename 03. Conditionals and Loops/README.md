@@ -1,18 +1,18 @@
 # *Easy Problems*
 
-- [ ] Code 1 :  
+- [x] Code 1 :  
 Area Of Circle Java Program
 
-- [ ] Code 2 :  
+- [x] Code 2 :  
 Area Of Triangle
 
-- [ ] Code 3 :  
+- [x] Code 3 :  
 Area Of Rectangle Program
 
-- [ ] Code 4 :  
+- [x] Code 4 :  
 Area Of Isosceles Triangle
 
-- [ ] Code 5 :  
+- [x] Code 5 :  
 Area Of Parallelogram
 
 - [ ] Code 6 :  
