@@ -15,67 +15,67 @@ Area Of Isosceles Triangle
 - [x] Code 5 :  
 Area Of Parallelogram
 
-- [ ] Code 6 :  
+- [x] Code 6 :  
 Area Of Rhombus
 
-- [ ] Code 7 :  
+- [x] Code 7 :  
 Area Of Equilateral Triangle
 
-- [ ] Code 8 :  
+- [x] Code 8 :  
 Perimeter Of Circle
 
-- [ ] Code 9 :  
+- [x] Code 9 :  
 Perimeter Of Equilateral Triangle
 
-- [ ] Code 10 :  
+- [x] Code 10 :  
 Perimeter Of Parallelogram
 
-- [ ] Code 11 :  
+- [x] Code 11 :  
 Perimeter Of Rectangle
 
-- [ ] Code 12 :  
+- [x] Code 12 :  
 Perimeter Of Square
 
-- [ ] Code 13 :  
+- [x] Code 13 :  
 Perimeter Of Rhombus
 
-- [ ] Code 14 :  
+- [x] Code 14 :  
 Volume Of Cone Java Program
 
-- [ ] Code 15 :  
-Volume Of Prism
+- [x] Code 15 :  
+Volume Of Rectangular Prism
 
-- [ ] Code 16 :  
+- [x] Code 16 :  
 Volume Of Cylinder
 
-- [ ] Code 17 :  
+- [x] Code 17 :  
 Volume Of Sphere
 
-- [ ] Code 18 :  
+- [x] Code 18 :  
 Volume Of Pyramid
 
-- [ ] Code 19 :  
+- [x] Code 19 :  
 Curved Surface Area Of Cylinder
 
-- [ ] Code 20 :  
+- [x] Code 20 :  
 Total Surface Area Of Cube
 
-- [ ] Code 21 :  
+- [x] Code 21 :  
 Fibonacci Series In Java Programs
 
-- [ ] Code 22 :  
-Subtract the Product and Sum of Digits of an Integer
+- [x] Code 22 :  
+Difference between the Product and Sum of Digits of an Integer
 
-- [ ] Code 23 :  
+- [x] Code 23 :  
 Input a number and print all the factors of that number (use loops).
 
-- [ ] Code 24 :  
-Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
+- [x] Code 24 :  
+Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop / do-while loop)
 
-- [ ] Code 25 :  
+- [x] Code 25 :  
 Take integer inputs till the user enters 0 and print the largest number from all.
 
-- [ ] Code 26 :  
+- [x] Code 26 :  
 Addition Of Two Numbers
 
 # *Intermediate Problems*
