@@ -80,76 +80,76 @@ Addition Of Two Numbers
 
 # *Intermediate Problems*
 
-- [ ] Code 27 :  
+- [x] Code 27 :  
 Factorial Program In Java
 
-- [ ] Code 28 :  
+- [x] Code 28 :  
 Calculate Electricity Bill
 
-- [ ] Code 29 :  
+- [x] Code 29 :  
 Calculate Average Of N Numbers
 
-- [ ] Code 30 :  
+- [x] Code 30 :  
 Calculate Discount Of Product
 
-- [ ] Code 31 :  
+- [x] Code 31 :  
 Calculate Distance Between Two Points
 
-- [ ] Code 32 :  
-Calculate Commission Percentage
+- [x] Code 32 :  
+Calculate Commission Percentage or Commission Amount
 
-- [ ] Code 33 :  
+- [x] Code 33 :  
 Power In Java
 
-- [ ] Code 34 :  
+- [x] Code 34 :  
 Calculate Depreciation of Value
 
-- [ ] Code 35 :  
+- [x] Code 35 :  
 Calculate Batting Average
 
-- [ ] Code 36 :  
+- [x] Code 36 :  
 Calculate CGPA Java Program
 
-- [ ] Code 37 :  
+- [x] Code 37 :  
 Compound Interest Java Program
 
-- [ ] Code 38 :  
+- [x] Code 38 :  
 Calculate Average Marks
 
-- [ ] Code 39 :  
+- [x] Code 39 :  
 Sum Of N Numbers
 
-- [ ] Code 40 :  
+- [x] Code 40 :  
 Armstrong Number In Java
 
-- [ ] Code 41 :  
+- [x] Code 41 :  
 Find Ncr & Npr
 
-- [ ] Code 42 :  
+- [x] Code 42 :  
 Reverse A String In Java
 
-- [ ] Code 43 :  
+- [x] Code 43 :  
 Find if a number is palindrome or not
 
-- [ ] Code 44 :  
-Future Investment Value
+- [x] Code 44 :  
+Future Investment Value i.e. SIP Calculator
 
-- [ ] Code 45 :  
+- [x] Code 45 :  
 HCF Of Two Numbers Program
 
-- [ ] Code 46 :  
+- [x] Code 46 :  
 LCM Of Two Numbers
 
-- [ ] Code 47 :  
+- [x] Code 47 :  
 Java Program Vowel Or Consonant
 
-- [ ] Code 48 :  
+- [x] Code 48 :  
 Perfect Number In Java
 
-- [ ] Code 49 :  
+- [x] Code 49 :  
 Check Leap Year Or Not
 
-- [ ] Code 50 :  
+- [x] Code 50 :  
 Sum Of A Digits Of Number
 
 - [ ] Code 51 :  
