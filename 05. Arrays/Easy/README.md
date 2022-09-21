@@ -24,7 +24,7 @@
 - [x] Code 8.  
 [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
-- [ ] Code 9.  
+- [x] Code 9.  
 [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 
 - [ ] Code 10.  
