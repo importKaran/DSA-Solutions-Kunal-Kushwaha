@@ -36,19 +36,19 @@
 - [x] Code 9.  
 [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 
-- [ ] Code 10.  
+- [x] Code 10.  
 [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 
-- [ ] Code 11.  
+- [x] Code 11.  
 [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 
-- [ ] Code 12.  
+- [x] Code 12.  
 [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 
-- [ ] Code 13.  
+- [x] Code 13.  
 [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 
-- [ ] Code 14.  
+- [x] Code 14.  
 [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
 
 - [ ] Code 15.  
