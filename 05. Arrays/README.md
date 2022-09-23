@@ -51,19 +51,19 @@
 - [x] Code 14.  
 [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
 
-- [ ] Code 15.  
+- [x] Code 15.  
 [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 
-- [ ] Code 16.  
+- [x] Code 16.  
 [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 
-- [ ] Code 17.  
+- [x] Code 17.  
 [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 
-- [ ] Code 18.  
+- [x] Code 18.  
 [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 
-- [ ] Code 19.  
+- [x] Code 19.  
 [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 
 - [ ] Code 20.  
