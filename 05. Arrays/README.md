@@ -66,16 +66,16 @@
 - [x] Code 19.  
 [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 
-- [ ] Code 20.  
+- [x] Code 20.  
 [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 
-- [ ] Code 21.  
+- [x] Code 21.  
 [Two Sum](https://leetcode.com/problems/two-sum/)
 
-- [ ] Code 22.  
+- [x] Code 22.  
 [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 
-- [ ] Code 23.  
+- [x] Code 23.  
 [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 
 - [ ] Code 24.  
