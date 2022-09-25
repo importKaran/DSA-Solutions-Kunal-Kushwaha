@@ -78,19 +78,19 @@
 - [x] Code 23.  
 [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 
-- [ ] Code 24.  
+- [x] Code 24.  
 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
-- [ ] Code 25.  
+- [x] Code 25.  
 [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 
-- [ ] Code 26.  
+- [x] Code 26.  
 [Plus One](https://leetcode.com/problems/plus-one/)
 
-- [ ] Code 27.  
+- [x] Code 27.  
 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
-- [ ] Code 28.  
+- [x] Code 28.  
 [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 
 
