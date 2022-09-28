@@ -3,10 +3,10 @@
 - [x] Code 1.  
 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
-- [ ] Code 2.  
+- [x] Code 2.  
 [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 
-- [ ] Code 3.  
+- [x] Code 3.  
 [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
 
 - [ ] Code 4.  
